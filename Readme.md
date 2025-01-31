@@ -3,14 +3,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharma-Ji-21&label=Profile%20views&color=0e75b6&style=flat" alt="Sharma-Ji-21" /> </p>
 
 ### 💫 About Me:
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **[Multiple Projects on GitHub](https://github.com/Sharma-Ji-21)**
+- 🌱 I'm currently learning **Flutter, Kotlin, Dart, Python, React, Java, HTML, and CSS**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 💬 Ask me about **Programming, App Development, Web Development**
+- ⚡ Fun fact: **I love experimenting with new technologies and creating innovative projects**
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -31,12 +31,12 @@
 
 ### 📊 GitHub Stats:
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yourusername" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharma-Ji-21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sharma-Ji-21" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=tokyonight" alt="yourusername" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&locale=en&theme=tokyonight" alt="Sharma-Ji-21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharma-Ji-21&theme=tokyonight" alt="Sharma-Ji-21" /></p>
 
 ### 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight" alt="yourusername" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sharma-Ji-21&theme=tokyonight" alt="Sharma-Ji-21" /></a> </p>

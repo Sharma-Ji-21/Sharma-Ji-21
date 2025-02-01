@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/om-sharma-603b17320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sharma-ji-21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://medium.com/@justsharmaji69/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Medium_logo_2023.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://medium.com/@justsharmaji69/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="medium" height="30" width="40" /></a>
 </p>
 
 ### 💻 Tech Stack:

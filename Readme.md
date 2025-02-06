@@ -1,5 +1,5 @@
 # Hi there, I'm Om Sharma! 👋  
-🚀 **Developer | Open Source Contributor | Tech Enthusiast**  
+**Developer | Open Source Contributor | Tech Enthusiast**  
 
 I’m a passionate developer who enjoys working on innovative projects, solving coding challenges, and contributing to open-source communities. I love exploring new technologies and pushing my limits in software development.  
 
@@ -34,7 +34,7 @@ I’m a passionate developer who enjoys working on innovative projects, solving 
 
 ---
 
-## 💻 My Projects  
+## 🖥️ My Projects  
 - 🌍 **[Liquid Galaxy Controller](https://github.com/Sharma-Ji-21)** – A project enabling smooth control of Liquid Galaxy setups.  
 - 🎨 **[Paintroid](https://github.com/Sharma-Ji-21)** – Working on updating the color picker functionality in this **Kotlin-based** drawing app.  
 - 🏗️ **[C2SI WebUI Setup](https://github.com/Sharma-Ji-21)** – Contributing to **Catrobat's** UI enhancements.  

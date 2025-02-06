@@ -8,7 +8,9 @@ I’m a passionate developer who enjoys working on innovative projects, solving 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Sharma-Ji-21&color=gray)  
 
-## 🚀 What I'm Working On  
+---
+
+### 🚀 What I'm Working On
 - 🔭 Contributing to multiple projects on **[GitHub](https://github.com/Sharma-Ji-21)**.  
 - 🛠️ Enhancing my expertise in **Flutter, Kotlin, Dart, Python, and React**.  
 - 🎯 Working on **Liquid Galaxy** and **Catrobat** open-source projects.  
@@ -16,7 +18,7 @@ I’m a passionate developer who enjoys working on innovative projects, solving 
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>

@@ -66,9 +66,6 @@ I’m a passionate developer who enjoys working on innovative projects, solving 
 <a href="https://leetcode.com/u/sharma-ji-21/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
-<a href="https://medium.com/@justsharmaji69/" target="blank">
-  <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-white-icon.png" alt="medium" height="30" width="40" />
-</a>
 <a href="mailto:justsharmaji69@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" />
 </a>

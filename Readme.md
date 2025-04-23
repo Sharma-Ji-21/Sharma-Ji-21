@@ -1,79 +1,106 @@
-# Hi there, I'm Om Sharma! 👋  
-**Developer | Open Source Contributor | Tech Enthusiast**  
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C2D57,50:144272,100:205295&height=250&section=header&text=Om%20Sharma&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Android%20Developer%20|%20Open%20Source%20Contributor%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+</p>
 
-I’m a passionate developer who enjoys working on innovative projects, solving coding challenges, and contributing to open-source communities. I love exploring new technologies and pushing my limits in software development.  
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Om+Sharma!;%E2%9C%8F%EF%B8%8F+Developer+%7C+Tech+Enthusiast;%F0%9F%93%88+GSoC+2025+Aspirant;%F0%9F%92%BB+Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
----
-
-### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=Sharma-Ji-21&color=gray)  
-
----
-
-### 🚀 What I'm Working On
-- 🔭 Contributing to multiple projects on **[GitHub](https://github.com/Sharma-Ji-21)**.  
-- 🛠️ Enhancing my expertise in **Flutter, Kotlin, Dart, Python, and React**.  
-- 🎯 Working on **Liquid Galaxy** and **Catrobat** open-source projects.  
-- 💡 Preparing for **Google Summer of Code (GSoC) 2025** to contribute to impactful organizations.  
+<!-- Coding GIF -->
+<div align="center">
+  <img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+</div>
 
 ---
 
-### 💻 Tech Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+### 👨‍💻 About Me
+- 🧠 I’m a passionate developer who enjoys building impactful solutions.
+- 🚀 Currently contributing to **Liquid Galaxy**, **AOSSIE**, **Catrobat** and more.
+- 🧑‍💻 I thrive in building apps using **Flutter**, **Kotlin**, and AI-powered tech.
+- 🎯 Actively preparing for **GSoC 2025** with multiple accepted tasks and proposals.
+- 🛠️ I love creating tools that make life easier — from **robotic control systems** to **AI transcription apps**.
+
+---
+
+### 🚧 What I'm Working On
+- 🩺 **DocPilot** – AI medical transcription app using Flutter + Deepgram.
+- 🌍 **MultiSSH + KML Viewer** – Manage multiple rigs in Liquid Galaxy.
+- 🌿 **Environment Monitoring Dashboard** – Visualize NASA & AQI data.
+- 🤖 **Robotic Gesture Control** – Control arms via intuitive gestures.
+- 📚 Deep-diving into **Flutter**, **React**, **Kotlin**, **Dart**, and **AI/ML**.
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 🖥️ My Projects  
-- 🌍 **[Liquid Galaxy Controller](https://github.com/Sharma-Ji-21)** – A project enabling smooth control of Liquid Galaxy setups.  
-- 🎨 **[Paintroid](https://github.com/Sharma-Ji-21)** – Working on updating the color picker functionality in this **Kotlin-based** drawing app.  
-- 🏗️ **[C2SI WebUI Setup](https://github.com/Sharma-Ji-21)** – Contributing to **Catrobat's** UI enhancements.  
-- 🛠️ More projects on my **[GitHub](https://github.com/Sharma-Ji-21)** profile!  
+### 🌟 Featured Projects
+- 🔥 [**DocPilot**](https://github.com/Sharma-Ji-21) – Flutter-based AI transcription & prescription assistant.
+- 🌐 [**Liquid Galaxy Controller**](https://github.com/Sharma-Ji-21) – SSH-based KML control dashboard.
+- 🎨 [**Paintroid (Catrobat)**](https://github.com/Catrobat/Paintroid) – UI polishing & Kotlin refactoring.
+- 🧠 [**C2SI WebUI**](https://github.com/Sharma-Ji-21) – Frontend enhancement & contribution.
+- 🌱 [**Environment Dashboard**](https://github.com/Sharma-Ji-21) – AQI/NASA API visualization tool.
 
 ---
 
-## 📈 GitHub Stats  
-### 📈 Contributions Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharma-Ji-21&theme=github-dark)  
+### 📊 GitHub Stats
 
-### 🌟 GitHub Stats  
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&theme=github_dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-### 🔥 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=github_dark)  
-
----
-
-## 🌟 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/om-sharma-603b17320/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/sharma-ji-21/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
-<a href="mailto:justsharmaji69@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" />
-</a>
-</p> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharma-Ji-21&theme=github-dark"/>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sharma-Ji-21&theme=darkhub" alt="Sharma-Ji-21" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharma-Ji-21&theme=darkhub" alt="trophies"/>
+</p>
 
 ---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/om-sharma-603b17320/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sharma-ji-21/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:justsharmaji69@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sharma-Ji-21" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👁️‍🗨️ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sharma-Ji-21&style=for-the-badge&color=0C2D57" alt="Profile Views"/>
+</p>

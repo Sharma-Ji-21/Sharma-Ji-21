@@ -104,3 +104,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sharma-Ji-21&style=for-the-badge&color=0C2D57" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:4361EE,100:7209B7&height=150&section=footer&animation=twinkling" width="100%"/>
+</p>

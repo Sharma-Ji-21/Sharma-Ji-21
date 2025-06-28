@@ -5,11 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,50:2D2D2D,100:3C3C3C&height=250&section=header&text=Om%20Sharma&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
-<!-- Full-Width Dark Flutter Animation -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f1/d0/37/f1d037cb93eac7ec7889d94b7424f291.jpg"/>
-</div>
-
 ---
 
 ### 👤 About Me
@@ -31,6 +26,22 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
 | [**InternConnect**](https://github.com/Sharma-Ji-21) | 🎓 Internship platform with Firebase, real-time tracking, role-based flows, and intuitive UI. |
 | [**PokéOm**](https://github.com/Sharma-Ji-21) | 🐾 Feature-rich Pokédex with animated login, PokéAPI, Firebase, and state management using `setState`. |
 | [**LG MultiSSH Controller**](https://github.com/Sharma-Ji-21) | 📡 SSH-based rig manager for Liquid Galaxy. Executes multi-device commands and syncs KML & screens. |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&theme=dark&bg_color=000000&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=dark&bg_color=000000&hide_border=true"/>
+</p>
+
+
+
+<!-- Full-Width Dark Flutter Animation -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f1/d0/37/f1d037cb93eac7ec7889d94b7424f291.jpg"/>
+</div>
 
 ---
 
@@ -69,13 +80,6 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
   <img src="https://img.shields.io/badge/SQLite-1E1E1E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
----
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&theme=dark&bg_color=000000&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=dark&bg_color=000000&hide_border=true"/>
-</p>
 ---
 
 ### 🏆 GitHub Trophies

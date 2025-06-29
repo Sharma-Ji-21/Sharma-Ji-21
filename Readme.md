@@ -13,8 +13,7 @@ Hi! I'm Om, a Flutter developer passionate about crafting clean, performant mobi
 From real-time transcription to dynamic dashboards, I enjoy building tools that are functional, fast, and visually elegant.
 
 - 💻 Focus: Flutter, Firebase, APIs, Clean UI  
-- 🌍 18+ PRs merged in open-source orgs like AOSSIE, Catrobat, C2SI, Liquid Galaxy  
-- 📄 [My Resume](https://drive.google.com/drive/folders/1m-ow3FCk93YBQm9hGadvdMW8KrLvkWtj?usp=sharing)
+- 🌍 18+ PRs merged in open-source orgs like AOSSIE, Catrobat, C2SI, Liquid Galaxy 
 
 
 <!-- Full-Width Dark Flutter Animation -->

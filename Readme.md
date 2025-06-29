@@ -16,6 +16,13 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
 - 🌍 18+ PRs merged in open-source orgs like AOSSIE, Catrobat, C2SI, Liquid Galaxy  
 - 📄 [My Resume](https://drive.google.com/drive/folders/1m-ow3FCk93YBQm9hGadvdMW8KrLvkWtj?usp=sharing)
 
+
+<!-- Full-Width Dark Flutter Animation -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f1/d0/37/f1d037cb93eac7ec7889d94b7424f291.jpg"/>
+</div>
+
+
 ---
 
 ### 🚀 Flutter Projects
@@ -35,13 +42,6 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
   <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&theme=dark&bg_color=000000&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=dark&bg_color=000000&hide_border=true"/>
 </p>
-
-
-
-<!-- Full-Width Dark Flutter Animation -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f1/d0/37/f1d037cb93eac7ec7889d94b7424f291.jpg"/>
-</div>
 
 ---
 

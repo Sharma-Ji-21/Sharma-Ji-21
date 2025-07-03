@@ -98,7 +98,7 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
   <a href="https://leetcode.com/u/sharma-ji-21/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-3C3C3C?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="mailto:justsharmaji69@gmail.com" target="_blank">
+  <a href="mailto:om.debug@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Sharma-Ji-21" target="_blank">

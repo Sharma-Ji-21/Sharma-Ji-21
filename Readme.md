@@ -2,6 +2,7 @@
 
 <!-- Header Banner -->
 <p align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,50:2D2D2D,100:3C3C3C&height=250&section=header&text=Om%20Sharma&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 

@@ -27,10 +27,11 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
 
 | Project | Description |
 |--------|-------------|
-| [**DocPilot**](https://github.com/Sharma-Ji-21) | 🩺 AI-powered transcription app built with Flutter, Deepgram, and Gemini. Features diarization, summaries, and export. |
-| [**InternConnect**](https://github.com/Sharma-Ji-21) | 🎓 Internship platform with Firebase, real-time tracking, role-based flows, and intuitive UI. |
-| [**PokéOm**](https://github.com/Sharma-Ji-21) | 🐾 Feature-rich Pokédex with animated login, PokéAPI, Firebase, and state management using `setState`. |
-| [**LG MultiSSH Controller**](https://github.com/Sharma-Ji-21) | 📡 SSH-based rig manager for Liquid Galaxy. Executes multi-device commands and syncs KML & screens. |
+| [**DocPilot**](https://github.com/Sharma-Ji-21/DocPilot-Personal) | 🩺 AI-powered transcription app built with Flutter, Deepgram, and Gemini. Features diarization, summaries, and export. |
+| [**InternConnect**](https://github.com/Sharma-Ji-21/InternConnect) | 🎓 Internship platform with Firebase, real-time tracking, role-based flows, and intuitive UI. |
+| [**Chatify**](https://github.com/Sharma-Ji-21/Chatify) | 💬 Real-time Flutter chat app with Firebase Auth, Realtime DB, persistent login via SharedPreferences, and a smooth dark UI. |
+| [**PokéOm**](https://github.com/Sharma-Ji-21/PokeOm) | 🐾 Feature-rich Pokédex with animated login, PokéAPI, Firebase, and state management using `setState`. |
+| [**LG MultiSSH Controller**](https://github.com/Sharma-Ji-21/LG-SSH-Controller) | 📡 SSH-based rig manager for Liquid Galaxy. Executes multi-device commands and syncs KML & screens. |
 
 ---
 
@@ -39,6 +40,10 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharma-Ji-21&show_icons=true&theme=dark&bg_color=000000&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=dark&bg_color=000000&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharma-Ji-21&theme=github-compact&bg_color=000000&color=ffffff&line=808080&point=ffffff&hide_border=true" />
 </p>
 
 ---

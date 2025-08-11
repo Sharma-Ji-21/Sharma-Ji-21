@@ -42,9 +42,10 @@ From real-time transcription to dynamic dashboards, I enjoy building tools that 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharma-Ji-21&layout=compact&theme=dark&bg_color=000000&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharma-Ji-21&theme=github-compact&bg_color=000000&color=ffffff&line=808080&point=ffffff&hide_border=true" />
 </p>
+-->
 
 ---
 
